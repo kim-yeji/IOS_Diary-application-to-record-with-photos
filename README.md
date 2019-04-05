@@ -1,15 +1,15 @@
 # IOS_Diary-application-to-record-with-photos
 
-####Completion date
+#### Completion date
 20171219
 
-####Language
+#### Language
 swift
 
-####Description
+#### Description
 Using swift, developed an application that records expenditures with photos and aggregates the amount of expenditure.
 
-####function of App
+#### function of App
 -Take a picture and record the price
 -Select a picture from the album to record it
 -Sort by name, date, and price
